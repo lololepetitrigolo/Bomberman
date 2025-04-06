@@ -1,0 +1,21 @@
+BasedOnStyle: LLVM
+
+IndentWidth: 4
+TabWidth: 4
+UseTab: Always
+
+ColumnLimit: 80
+
+IndentCaseLabels: false
+IndentGotoLabels: false
+
+BraceWrapping:
+  AfterFunction: false
+BreakBeforeBraces: Custom
+
+AlwaysBreakAfterDefinitionReturnType: false
+
+BinPackArguments: false
+BinPackParameters: false
+
+PointerAlignment: Left

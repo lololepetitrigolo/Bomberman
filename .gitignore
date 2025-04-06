@@ -1,0 +1,6 @@
+build
+compile_commands.json
+.cache
+subprojects/*
+!subprojects/*.wrap
+hashmap
